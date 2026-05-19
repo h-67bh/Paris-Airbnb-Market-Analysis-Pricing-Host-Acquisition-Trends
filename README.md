@@ -31,7 +31,8 @@ To understand the baseline market rate across different zones, the data was grou
 
 ![Average Price by Neighborhood](paris_neighborhoods_simple.png)
 
-# Takeaway: The pricing distribution clearly identifies the premium geographic tiers within the city, establishing a baseline for expected revenue based purely on location.
+# Takeaway: 
+The pricing distribution clearly identifies the premium geographic tiers within the city, establishing a baseline for expected revenue based purely on location.
 
 # 2. Capacity Valuation in Premium Markets
 The analysis isolated the single most expensive neighborhood (Elysee) to determine how accommodation capacity scales with pricing power.
